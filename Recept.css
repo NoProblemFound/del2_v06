@@ -1,0 +1,35 @@
+body {
+    font-size: 30px;
+}
+
+
+.split {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+
+.text {
+    width: 40%;
+}
+
+.split img {
+    width: 600px;
+    height: auto;
+}
+
+.recipe-info {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.ingredients {
+    width: 40%;
+}
+
+.instructions {
+    width: 60%;
+}
+

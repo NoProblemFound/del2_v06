@@ -1,0 +1,26 @@
+body {
+    font-size: 20px;
+}
+
+.split {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+
+.vänster {
+    width: 50%;
+}
+
+.höger {
+    width: 50%;
+}
+
+
+
+.fakta li {
+    margin-bottom: 1em;
+}
+
+

@@ -1,0 +1,11 @@
+Hitta så många fel som möjligt i följande HTML.
+<main>
+<section> #Saknar avslut på section i strukturen
+<h1> Find the error #Saknar avslut på h1
+<p> This is an example of an HTML file. It contains several errors. #Saknar avslut på p
+<img Let's show a nice image. /> #Sakar src ekement tex image.jpg
+<p> Can you find them all? </p>
+</p> #Bordet vara <P/>
+</main>
+
+
